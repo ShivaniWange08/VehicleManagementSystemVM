@@ -19,6 +19,7 @@ public class App {
         	UserRepositories userrepositories = new UserRepositories();
         	Scanner sc = new Scanner(System.in);
         	
+        	System.err.println("Vehicle Management System");
         	System.out.println("THANK YOU!!, Please select as per choice :");
         	System.out.println("1.Get details of single vehicle");
         	System.out.println("2.Get detailed list of vehicle");
